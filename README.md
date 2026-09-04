@@ -32,7 +32,7 @@ Designed the interface, screen layouts, user flows, and interactive prototype.
 
 ## Prototype
 
-[View Interactive Figma Prototype](YOUR_FIGMA_LINK)
+[View Interactive Figma Prototype](https://www.figma.com/design/bDQeHVOFtpc10x3Eeji5VX/Fridge-Project?node-id=0-1&t=KVzwSjhC2agYOnEy-1)
 
 ## Screenshots
 
